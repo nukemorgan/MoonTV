@@ -77,11 +77,11 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "豪华": {
+    "hhzy": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
     },
-    "索尼": {
+    "suoni": {
       "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "索尼资源"
     }
