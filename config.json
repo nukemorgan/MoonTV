@@ -82,7 +82,7 @@
       "name": "量子资源站"
     },
     "suoni": {
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "索尼資源站"
     },
     "xiaomaomi": {
