@@ -84,11 +84,10 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
-        },
+    },
     "索尼": {
       "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "索尼資源"
-    }
+    },
   }
 }
